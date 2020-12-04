@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotApi", "BotApi\BotApi.csproj", "{E5B72DF9-8FF2-47A9-8408-4EBD7D2DC0BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botapi", "Botapi.csproj", "{64EFABC1-F9DA-4F1C-B690-2E15F22200EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E5B72DF9-8FF2-47A9-8408-4EBD7D2DC0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5B72DF9-8FF2-47A9-8408-4EBD7D2DC0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5B72DF9-8FF2-47A9-8408-4EBD7D2DC0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EFABC1-F9DA-4F1C-B690-2E15F22200EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EFABC1-F9DA-4F1C-B690-2E15F22200EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EFABC1-F9DA-4F1C-B690-2E15F22200EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EFABC1-F9DA-4F1C-B690-2E15F22200EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
